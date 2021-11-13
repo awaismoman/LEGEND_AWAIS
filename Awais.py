@@ -418,7 +418,7 @@ header = {
     'x-fb-connection-type': 'unknown',
     'content-type': 'application/x-www-form-urlencoded',
     'x-fb-http-engine': 'Liger' }
-logo = 
+
   /  _  \/  \    /  \/  _  \ |   |/   _____/
  /  /_\  \   \/\/   /  /_\  \|   |\_____  \ 
 /    |    \        /    |    \   |/        \
